@@ -39,5 +39,8 @@ Username for 'https://github.com': awsafambar
 Password for 'https://awsafambar@github.com': 
 Counting objects: 12, done.
 
+/ * Cloning an online repository         */
+create a folder and then 
+➜  git-test git:(master) git clone https://github.com/awsafambar/git-test.git
 
 
