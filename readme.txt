@@ -28,8 +28,16 @@ Initialized empty Git repository in /home/awsaf/git-workspace/git-test/.git/
 ➜  git-test git:(14b362d) git checkout master
 Switched to branch 'master'
 ➜  git-test git:(master) 
+You can also use 'git reset' to reset the staging area to the last commit without disturbing the working directory
 
 
+/ * push local repository to git online  */
+create online repository and then
+➜  git-test git:(master) git remote add origin https://github.com/awsafambar/git-test.git
+➜  git-test git:(master) ✗ git push -u origin master
+Username for 'https://github.com': awsafambar
+Password for 'https://awsafambar@github.com': 
+Counting objects: 12, done.
 
 
 
