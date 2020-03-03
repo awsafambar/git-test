@@ -24,6 +24,11 @@ Initialized empty Git repository in /home/awsaf/git-workspace/git-test/.git/
 
 
 / * check the file from an older commit */
+➜  git-test git:(14b362d) git checkout 14b362d readme.txt
+➜  git-test git:(14b362d) git checkout master
+Switched to branch 'master'
+➜  git-test git:(master) 
+
 
 
 
