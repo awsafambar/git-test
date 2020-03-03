@@ -23,4 +23,8 @@ Initialized empty Git repository in /home/awsaf/git-workspace/git-test/.git/
 ➜  git-test git:(master) git log --oneline
 
 
+/ * check the file from an older commit */
+
+
+
 
