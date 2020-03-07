@@ -1,0 +1,11 @@
+/ * Initializing package.json */
+➜  git-test git:(master) npm init
+ enter details accordingly
+ ->   entry point (index.js) index.html
+
+
+ / * Install a node package */
+ ➜  git-test git:(master) ✗ npm install lite-server 
+
+ / * Install a node package and save setting*/
+➜  git-test git:(master) ✗ npm install lite-server --save-dev
